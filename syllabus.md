@@ -216,7 +216,7 @@ See the Passing Requirements section for more details about the final exam.
 
 ## Schedule
 
-The tentative schedule is [posted here](docs/schedule.md)
+The tentative schedule is [posted here](docs/schedule.md).
 
 ## Academic concessions
 

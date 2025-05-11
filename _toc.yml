@@ -15,38 +15,39 @@ parts:
     - file: docs/homework_instructions.md
     - file: docs/resources.md 
     - file: docs/grades.md
-    - file: docs/setup.md
-    - file: docs/git_installation.md
     - file: docs/asking_for_help.md
-  - file: learning-objectives.md
+- caption: Setup
+  chapters: 
+  - file: docs/setup.md
+  - file: docs/git_installation.md
 
 - caption: Lectures
   chapters: 
   - file: lectures/notes/01_intro.ipynb
   - file: lectures/notes/02_terminology-decision-trees.ipynb
   - file: lectures/notes/03_ml-fundamentals.ipynb    
-  - file: lectures/notes/04_kNNs-SVM-RBF.ipynb   
-  - file: lectures/notes/05_preprocessing-pipelines.ipynb
-  - file: lectures/notes/06_column-transformer-text-feats.ipynb
-  - file: lectures/notes/07_linear-models.ipynb
-  - file: lectures/notes/08_hyperparameter-optimization.ipynb
-  - file: lectures/notes/09_classification-metrics.ipynb
-  - file: lectures/notes/10_regression-metrics.ipynb  
-  - file: lectures/notes/12_ensembles.ipynb
-  - file: lectures/notes/13_feat-importances.ipynb
-  - file: lectures/notes/14_feature-engineering-selection.ipynb
-  - file: lectures/notes/15_K-Means.ipynb
-  - file: lectures/notes/16_DBSCAN-hierarchical.ipynb  
-  - file: lectures/notes/17_recommender-systems.ipynb
-  - file: lectures/notes/18_natural-language-processing.ipynb
-  - file: lectures/notes/19_intro_to_computer-vision.ipynb
-  - file: lectures/notes/20_time-series.ipynb
-  - file: lectures/notes/21_survival-analysis.ipynb  
-  - file: lectures/notes/22_communication.ipynb    
-  - file: lectures/notes/24_deployment-conclusion.ipynb
-  - file: lectures/notes/final-exam-review-guiding-question.ipynb  
-  - file: lectures/notes/appendixA_feature-engineering-text-data.ipynb
-  - file: lectures/notes/appendixB_multiclass-strategies.ipynb
+  # - file: lectures/notes/04_kNNs-SVM-RBF.ipynb   
+  # - file: lectures/notes/05_preprocessing-pipelines.ipynb
+  # - file: lectures/notes/06_column-transformer-text-feats.ipynb
+  # - file: lectures/notes/07_linear-models.ipynb
+  # - file: lectures/notes/08_hyperparameter-optimization.ipynb
+  # - file: lectures/notes/09_classification-metrics.ipynb
+  # - file: lectures/notes/10_regression-metrics.ipynb  
+  # - file: lectures/notes/12_ensembles.ipynb
+  # - file: lectures/notes/13_feat-importances.ipynb
+  # - file: lectures/notes/14_feature-engineering-selection.ipynb
+  # - file: lectures/notes/15_K-Means.ipynb
+  # - file: lectures/notes/16_DBSCAN-hierarchical.ipynb  
+  # - file: lectures/notes/17_recommender-systems.ipynb
+  # - file: lectures/notes/18_natural-language-processing.ipynb
+  # - file: lectures/notes/19_intro_to_computer-vision.ipynb
+  # - file: lectures/notes/20_time-series.ipynb
+  # - file: lectures/notes/21_survival-analysis.ipynb  
+  # - file: lectures/notes/22_communication.ipynb    
+  # - file: lectures/notes/24_deployment-conclusion.ipynb
+  # - file: lectures/notes/final-exam-review-guiding-question.ipynb  
+  # - file: lectures/notes/appendixA_feature-engineering-text-data.ipynb
+  # - file: lectures/notes/appendixB_multiclass-strategies.ipynb
 - caption: Attribution
   chapters: 
   - file: attribution
