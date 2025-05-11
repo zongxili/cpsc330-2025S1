@@ -46,33 +46,29 @@ Tutorials for this course will be conducted by TAs, who will guide you through a
 
 **Instructors**: 
 
-- [Mathias Lécuyer](https://mathias.lecuyer.me/), OH: Thursday, 2:00 - 3:00 PM, ICCS 317
-- [Giulia Toti](https://www.gtoti.com/), OH: Tuesday, 2:00 - 3:15 PM, ICCS 231
-- Andrew Roth, OH: Tuesday, 12:30-1:30 PM, ICCS 353
+- [Firas Moosvi](https://firas.moosvi.com), Student Hours: MWF after class, 1:00 - 1:30 PM, DMP 310
 
 ### Course co-ordinator
-- Ancuta (Anca) Barbu (cpsc330-admin@cs.ubc.ca), please reach out to Anca for: admin questions, extensions, academic concessions etc. Include a descriptive subject, your name and student number, and course section so that we can keep track of emails.
+
+- Ancuta (Anca) Barbu (cpsc330-admin@cs.ubc.ca)
+
+Please reach out to Anca for: admin questions, extensions, academic concessions etc.
+Include a descriptive subject, your name and student number, and course section so that we can keep track of emails.
 
 ### TAs
 
-- Amirali Goodarzvand Chegini
-- Frederick Sunstrum
-- Kimia Rostin
-- Tianyu (Niki) Duan
-- Abdelrahman Ahmed
-- Maissan Bazazeh
-- Gaurav Bhatt
+- Jun He Cui
 - Patrick Cui
-- Neo Ghassemi
-- Alison Hardy
-- Mishaal Kazmi
-- Zefeng Li
-- Yifei Li
-- Harry Wang
-- Allya Wellyanto
-- Yan Zeng
-- Alain Zhiyanov
+- Niki Duan
+- Atabak Eghbal
+- Kimia Rostin
+- Justice Sefas
+- Shadab Shaikh
+- Joseph Soo
+- Shashwat Suri
+- Yifei Xia
 - Mahsa Zarei
+- Kelly Zhu
 
 ## Course Learning Objectives
 
@@ -119,11 +115,10 @@ The grading scheme for the course is as follows:
 
 | Component              | Weight | Location                                              |
 |------------------------|--------|-------------------------------------------------------|
-| Syllabus quiz          | 1%     | [PrairieLearn](https://us.prairielearn.com/pl/course_instance/172119/assessment/2494388)        |
-| iClicker participation | 5%     | iClicker Cloud                                        |
-| Assignments            | 22%    | [Gradescope](https://www.gradescope.ca/courses/23876) |
-| Midterm 1              | 21%    | PrairieLearn (CBTF) |
-| Midterm 2              | 21%    | PrairieLearn (CBTF) |
+| Learning Logs          | 5%     | PrairieLearn                                          |
+| Assignments            | 25%    | [Gradescope](https://www.gradescope.ca/courses/27876) |
+| Midterm 1              | 20%    | PrairieLearn (CBTF) |
+| Midterm 2              | 20%    | PrairieLearn (CBTF) |
 | Final                  | 30%    | PrairieLearn (CBTF) |
 
 ### Passing Requirements
