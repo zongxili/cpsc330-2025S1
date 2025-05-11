@@ -1,1 +1,0 @@
-Lecture slides can be found at [https://aroth85.github.io/cpsc330-slides](https://aroth85.github.io/cpsc330-slides).
