@@ -7,7 +7,8 @@ root: README.md
 parts:
 - caption: Course Logistics
   chapters: 
-  - file: syllabus.md  
+  - file: syllabus.md
+  - file: docs/schedule.md
   - file: docs/README.md
     sections:
     - file: docs/330_vs_340.md
