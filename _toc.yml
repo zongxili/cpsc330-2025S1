@@ -25,6 +25,7 @@ parts:
     - url: "https://firasm.github.io/cpsc330-slides/slides-01-intro"
       title: Lecture 1
   - file: lectures/classes/class1B
+    sections:
     - url: "https://firasm.github.io/cpsc330-slides/slides-02-terminology-decision-trees.html"
       title: Lecture 2
   - file: lectures/classes/class1C
