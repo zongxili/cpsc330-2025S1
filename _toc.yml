@@ -42,18 +42,18 @@ parts:
   # - file: lectures/notes/08_hyperparameter-optimization
   # - file: lectures/notes/09_classification-metrics
   # - file: lectures/notes/10_regression-metrics  
-  # - file: lectures/notes/12_ensembles
-  # - file: lectures/notes/13_feat-importances
-  # - file: lectures/notes/14_feature-engineering-selection
-  # - file: lectures/notes/15_K-Means
-  # - file: lectures/notes/16_DBSCAN-hierarchical  
-  # - file: lectures/notes/17_recommender-systems
-  # - file: lectures/notes/18_natural-language-processing
-  # - file: lectures/notes/19_intro_to_computer-vision
-  # - file: lectures/notes/20_time-series
-  # - file: lectures/notes/21_survival-analysis  
-  # - file: lectures/notes/22_communication    
-  # - file: lectures/notes/24_deployment-conclusion
+  # - file: lectures/notes/11_ensembles
+  # - file: lectures/notes/12_feat-importances
+  # - file: lectures/notes/13_feature-engineering-selection
+  # - file: lectures/notes/14_K-Means
+  # - file: lectures/notes/15_DBSCAN-hierarchical  
+  # - file: lectures/notes/16_recommender-systems
+  # - file: lectures/notes/17_natural-language-processing
+  # - file: lectures/notes/18_intro_to_computer-vision
+  # - file: lectures/notes/19_time-series
+  # - file: lectures/notes/20_survival-analysis  
+  # - file: lectures/notes/21_communication    
+  # - file: lectures/notes/22_deployment-conclusion
   # - file: lectures/notes/final-exam-review-guiding-question  
   # - file: lectures/notes/appendixA_feature-engineering-text-data
   # - file: lectures/notes/appendixB_multiclass-strategies
