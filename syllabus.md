@@ -12,7 +12,7 @@ Application of machine learning tools, with an emphasis on solving practical pro
 
 | Section      | Day     | Time                | Location              |
 |--------------|---------|---------------------|-----------------------|
-| CPSC 330 | MWF | 09:00 - 12:50 PM     | DMP 310         |
+| CPSC 330 | MWF | 10:00 - 12:50 PM     | DMP 310         |
 
 **Tutorials**:
 
