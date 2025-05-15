@@ -35,7 +35,7 @@ parts:
   - file: lectures/notes/01_intro
   - file: lectures/notes/02_terminology-decision-trees
   - file: lectures/notes/03_ml-fundamentals    
-  # - file: lectures/notes/04_kNNs-SVM-RBF   
+  - file: lectures/notes/04_kNNs-SVM-RBF   
   # - file: lectures/notes/05_preprocessing-pipelines
   # - file: lectures/notes/06_column-transformer-text-feats
   # - file: lectures/notes/07_linear-models
