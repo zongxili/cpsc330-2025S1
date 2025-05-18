@@ -36,9 +36,9 @@ parts:
       title: Lecture 4
   - file: lectures/classes/class2A
     sections:
-    - url: "https://firasm.github.io/cpsc330-slides/slides-03-ml-fundamentals.html"
+    - url: "https://firasm.github.io/cpsc330-slides/slides-05.html"
       title: Lecture 5
-    - url: "https://firasm.github.io/cpsc330-slides/slides-04-kNNs-SVM-RBF.html"
+    - url: "https://firasm.github.io/cpsc330-slides/slides-06.html"
       title: Lecture 6
 - caption: Course Notes
   chapters: 
