@@ -45,6 +45,12 @@ parts:
       title: Lecture 5
     - url: "https://firasm.github.io/cpsc330-slides/slides-06.html"
       title: Lecture 6
+  - file: lectures/classes/class2B
+    sections:
+    - url: "https://firasm.github.io/cpsc330-slides/slides-07.html"
+      title: Lecture 7
+    - url: "https://firasm.github.io/cpsc330-slides/slides-08.html"
+      title: Lecture 8
 - caption: Course Notes
   chapters: 
   - file: lectures/notes/01_intro
