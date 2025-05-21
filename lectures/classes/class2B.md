@@ -1,12 +1,12 @@
-# Class Meeting 2A
+# Class Meeting 2B
 
 Below are the required videos for today's class, as well as slides from class embedded.
 Feel free to download them to keep them locally, or leave them archived here and just bookmark them.
 We will leave the website open even after the course is over for a reasonable number of years.
 
-## Pre-lecture 5 Videos
+## Pre-lecture 7 Videos
 
-Below are the assigned videos for Lecture 5.
+Below are the assigned videos for Lecture 7.
 
 ```{dropdown} 1. Data Preprocessing Introduction
     :class-container: sd-shadow-lg
@@ -48,9 +48,9 @@ Below are the assigned videos for Lecture 5.
 </div>
 ```
 
-## Pre-lecture 6 Videos
+## Pre-lecture 8 Videos
 
-Below are the assigned videos for Lecture 6
+Below are the assigned videos for Lecture 8
 
 ```{dropdown} 1. Scikit-Learn ColumnTransformer
     :class-container: sd-shadow-lg
@@ -74,18 +74,18 @@ Below are the assigned videos for Lecture 6
 
 ## Class Slides
 
-### Lecture 05
+### Lecture 07
 
 <div>
-<iframe src="https://firasm.github.io/cpsc330-slides/slides-05.html" width="100%" height="600px" frameBorder="0"> </iframe>
+<iframe src="https://firasm.github.io/cpsc330-slides/slides-07.html" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
-[Download the Slides from today](../../files/Lec05.pdf)
+[Download the Slides from today](../../files/Lec07.pdf)
 
-### Lecture 06
+### Lecture 08
 
 <div>
-<iframe src="https://firasm.github.io/cpsc330-slides/slides-06.html" width="100%" height="600px" frameBorder="0"> </iframe>
+<iframe src="https://firasm.github.io/cpsc330-slides/slides-08.html" width="100%" height="600px" frameBorder="0"> </iframe>
 </div>
 
-[Download the Slides from today](../../files/Lec06.pdf)
+[Download the Slides from today](../../files/Lec08.pdf)

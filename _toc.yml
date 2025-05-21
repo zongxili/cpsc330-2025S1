@@ -8,15 +8,20 @@ parts:
 - caption: Course Logistics
   chapters: 
   - file: docs/schedule
-  - file: docs/330_vs_340
-  - file: docs/homework_instructions
-  - file: docs/grades
-  - file: docs/asking_for_help
-  - file: docs/resources
-- caption: Setup
-  chapters: 
-  - file: docs/setup
-  - file: docs/git_installation
+  - file: docs/README
+    title: More
+    sections:
+    - file: docs/330_vs_340
+    - file: docs/homework_instructions
+    - file: docs/grades
+    - file: docs/asking_for_help
+    - file: docs/resources
+    - file: docs/setup
+    - file: docs/git_installation
+# - caption: Setup
+#   chapters: 
+#   - file: docs/setup
+#   - file: docs/git_installation
 
 - caption: Class Meetings
   chapters: 
