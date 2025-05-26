@@ -30,7 +30,8 @@ dependencies:
     - wikipedia    
     - spacy
     - nltk    
-    - pip>=24.2        
+    - pip>=24.2
+    - panel
     - pip:
         - mglearn
         - otter-grader
