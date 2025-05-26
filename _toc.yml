@@ -51,6 +51,17 @@ parts:
       title: Lecture 7
     - url: "https://firasm.github.io/cpsc330-slides/slides-08.html"
       title: Lecture 8
+  - file: lectures/classes/class3A
+    sections:
+    - url: "https://firasm.github.io/cpsc330-slides/slides-09.html"
+      title: Lecture 9
+    - url: "https://firasm.github.io/cpsc330-slides/slides-10.html"
+      title: Lecture 10
+  - file: lectures/classes/class3B
+  - file: lectures/classes/class3C
+    sections:
+    - url: "https://firasm.github.io/cpsc330-slides/slides-11.html"
+      title: Lecture 11
 - caption: Course Notes
   chapters: 
   - file: lectures/notes/01_intro
@@ -63,8 +74,8 @@ parts:
   - file: lectures/notes/08_hyperparameter-optimization
   - file: lectures/notes/09_classification-metrics
   - file: lectures/notes/10_regression-metrics  
-  # - file: lectures/notes/11_ensembles
-  # - file: lectures/notes/12_feat-importances
+  - file: lectures/notes/11_ensembles
+  - file: lectures/notes/12_feat-importances
   # - file: lectures/notes/13_feature-engineering-selection
   # - file: lectures/notes/14_K-Means
   # - file: lectures/notes/15_DBSCAN-hierarchical  
