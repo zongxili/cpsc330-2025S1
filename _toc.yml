@@ -58,6 +58,8 @@ parts:
     - url: "https://firasm.github.io/cpsc330-slides/slides-10.html"
       title: Lecture 10
   - file: lectures/classes/class3B
+    sections:
+    - url: "https://firasm.github.io/cpsc330-slides/slides-midterm1-review.html"
   - file: lectures/classes/class3C
     sections:
     - url: "https://firasm.github.io/cpsc330-slides/slides-11.html"
