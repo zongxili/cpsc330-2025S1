@@ -89,8 +89,8 @@ parts:
   - file: lectures/notes/13_feature-engineering-selection
   - file: lectures/notes/14_K-Means
   - file: lectures/notes/15_DBSCAN-hierarchical  
-  # - file: lectures/notes/16_recommender-systems
-  # - file: lectures/notes/17_natural-language-processing
+  - file: lectures/notes/16_recommender-systems
+  - file: lectures/notes/17_natural-language-processing
   # - file: lectures/notes/18_intro_to_computer-vision
   # - file: lectures/notes/19_time-series
   # - file: lectures/notes/20_survival-analysis  
