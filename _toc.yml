@@ -72,6 +72,12 @@ parts:
     sections:
     - url: "https://firasm.github.io/cpsc330-slides/slides-13.html"
       title: Lecture 13
+  - file: lectures/classes/class4C
+    sections:
+    - url: "https://firasm.github.io/cpsc330-slides/slides-14.html"
+      title: Lecture 14
+    - url: "https://firasm.github.io/cpsc330-slides/slides-15.html"
+      title: Lecture 15
 - caption: Course Notes
   chapters: 
   - file: lectures/notes/01_intro
