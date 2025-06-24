@@ -91,6 +91,18 @@ parts:
       title: Lecture 18
     - url: "https://firasm.github.io/cpsc330-slides/slides-19.html"
       title: Lecture 19
+  - file: lectures/classes/class6A
+    sections:
+    - url: "https://firasm.github.io/cpsc330-slides/slides-20.html"
+      title: Lecture 20
+    - url: "https://github.com/UBC-CS/cpsc330-2025S1/blob/main/files/Lec21.pdf"
+      title: Lecture 21
+  - file: lectures/classes/class6B
+    sections:
+    - file: lectures/notes/22_ethics
+      title: Lecture 22-Ethics Slides
+    - url: "https://firasm.github.io/cpsc330-slides/slides-23.html"
+      title: Lecture 23
 - caption: Course Notes
   chapters: 
   - file: lectures/notes/01_intro
@@ -113,9 +125,9 @@ parts:
   - file: lectures/notes/18_intro_to_computer-vision
   - file: lectures/notes/19_time-series
   - file: lectures/notes/20_survival-analysis  
-  # - file: lectures/notes/21_communication    
-  # - file: lectures/notes/22_deployment-conclusion
-  # - file: lectures/notes/final-exam-review-guiding-question  
+  - file: lectures/notes/21_communication
+  - file: lectures/notes/23_deployment-conclusion
+  - file: lectures/notes/final-exam-review-guiding-question  
   - file: lectures/notes/appendixA_feature-engineering-text-data
   - file: lectures/notes/appendixB_multiclass-strategies
 - caption: Attribution
